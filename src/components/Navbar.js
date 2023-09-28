@@ -3,9 +3,6 @@ import logo from "../images/logo.svg";
 import { socialLinks } from "../data";
 import PageLinks from "./PageLinks";
 import SocialLink from "./SocialLink";
-// import { FaTimes } from "react-icons/fa";
-
-import { pageLinks } from "../data";
 
 const Navbar = () => {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
