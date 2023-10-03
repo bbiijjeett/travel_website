@@ -14,6 +14,15 @@ const About = () => {
         <article className="about-info">
           <h3>explore the difference</h3>
           <p>
+            Welcome to CloudTrail, where unforgettable journeys await! We are
+            more than just a tour company; we are your gateway to discovering
+            the world's most captivating destinations and creating lasting
+            memories. Established with a passion for travel and a commitment to
+            excellence, CloudTrail is dedicated to providing you with
+            extraordinary experiences that will leave you inspired and eager for
+            more.
+          </p>
+          <p>
             CloudTrail କୁ ସ୍ Welcome ାଗତ, ଯେଉଁଠାରେ ଅବିସ୍ମରଣୀୟ ଯାତ୍ରା ଅପେକ୍ଷା
             କରିଥାଏ! ଆମେ ମାନେ କେବଳ ଏକ ଟୁର୍ କମ୍ପାନୀଠାରୁ ଅଧିକ; ଆମେ ଆବିଷ୍କାର କରିବା
             ପାଇଁ ତୁମର ଗେଟୱେ | ଦୁନିଆର ସବୁଠାରୁ ଆକର୍ଷଣୀୟ ଗନ୍ତବ୍ୟସ୍ଥଳ ଏବଂ ସ୍ଥାୟୀ
